@@ -1,0 +1,17 @@
+{
+  "LuckyHand": {
+    "NAME": "LuckyHand",
+    "DESCRIPTION": "Deals !D! damage, if you are lucky!!"
+  },
+ "Random Search":{
+ 	"NAME": "Random Search",
+    "DESCRIPTION": "Channel All Four Orbs."
+    UPGRADE_DESCRIPTION: "Channel All Four Orbs, NL easily, but Exhaust."
+ },
+ "MagicHat":{
+ 	"NAME": "MagicHat",
+    "DESCRIPTION": "Add some random card(s) into your hand, you can't tell"
+
+ }
+
+}

@@ -1,0 +1,11 @@
+{
+  "modid": "THECREATORMOD",
+  "name": "THECREATORMOD",
+  "author_list": ["XR"],
+  "description": "The Creator Mod.",
+  "version": "0.1.0",
+  "sts_version": "01-03-2019",
+  "mts_version": "0.0.0",
+  "dependencies": ["basemod"],
+  "update_json": " Nay "
+}
